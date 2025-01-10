@@ -1,0 +1,78 @@
+
+
+.open-sans-stylishfont {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* Nav styles */
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 200px
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 22px;
+}
+
+nav ul li {
+    list-style: none;
+
+}
+
+.btn-primary{
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 16px;
+    border-color: #c6e4d6;
+    color:#006a50;
+    padding: 12px 26px;
+    border-radius: 5px;
+    
+
+}
+/* header */
+.header{
+
+}
+/* banner styles */
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.banner{
+    background-color:#c6e4d6 ;
+    border-radius: 50px;
+}
+.banner-content{
+    width: 580px
+
+}
+.banner-description{
+    font-size: 45px;
+    font-weight: 800;
+}
+.btn-Second{
+    background-color: #006a50;
+    font-weight: bold;
+    font-size: 16px;
+    color:#ffffff;
+    padding: 12px 26px;
+    border-radius: 5px;
+    
+}
+
+.hero-photo{
+    width: 480px;
+
+}
